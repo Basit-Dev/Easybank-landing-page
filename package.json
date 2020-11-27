@@ -1,0 +1,22 @@
+{
+  "name": "easybank-landing-page",
+  "version": "1.0.0",
+  "description": "Easy bank landing page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./stylesheets/main.scss ./stylesheets/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pivanta/Easybank-landing-page.git"
+  },
+  "author": "Abdul Basit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pivanta/Easybank-landing-page/issues"
+  },
+  "homepage": "https://github.com/Pivanta/Easybank-landing-page#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
